@@ -34,7 +34,7 @@ const requestHandler = ((req,res) =>{
     res.write('<body><h1>Welcome to my Node Js project</h1></body>');
     res.write('</html>');
     res.end();
-})
+});
 
 
 
